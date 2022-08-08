@@ -1,0 +1,4 @@
+#Mon Aug 08 15:54:45 IST 2022
+base.0=/Users/flutter/Desktop/Harsh/flutter_projects/DreamStock/dream_stock/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

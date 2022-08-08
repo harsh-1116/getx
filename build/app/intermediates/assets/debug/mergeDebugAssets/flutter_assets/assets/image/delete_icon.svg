@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <g id="delete-icon" transform="translate(-2141.75 -1549.75)">
+    <g id="Group_315" data-name="Group 315" transform="translate(2143.277 1549.944)">
+      <path id="Path_484" data-name="Path 484" d="M27.226,11.667H22.92V11a2.084,2.084,0,0,0-2.154-2H17.9a2.084,2.084,0,0,0-2.154,2v.668H11.435A1.388,1.388,0,0,0,10,13v.666a.694.694,0,0,0,.718.666H27.943a.694.694,0,0,0,.718-.666V13A1.388,1.388,0,0,0,27.226,11.667ZM17.177,11a.7.7,0,0,1,.718-.666h2.871a.7.7,0,0,1,.718.666v.668H17.177Z" transform="translate(-10 -9)" fill="#fff"/>
+      <path id="Path_485" data-name="Path 485" d="M11.385,13.712V26.144a2.127,2.127,0,0,0,2,2.231h9.332a2.127,2.127,0,0,0,2-2.231V13.712Z" transform="translate(-8.719 -7.047)" fill="#fff"/>
+    </g>
+    <rect id="Rectangle_223" data-name="Rectangle 223" width="22" height="22" transform="translate(2141.75 1549.75)" fill="none"/>
+  </g>
+</svg>

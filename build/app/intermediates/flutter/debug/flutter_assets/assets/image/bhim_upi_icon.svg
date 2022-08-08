@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <filter id="Ellipse_123" x="0" y="0" width="100" height="100" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_10828" data-name="Group 10828" transform="translate(-202.5 -263.5)">
+    <g transform="matrix(1, 0, 0, 1, 202.5, 263.5)" filter="url(#Ellipse_123)">
+      <g id="Ellipse_123-2" data-name="Ellipse 123" transform="translate(22.5 20.5)" fill="#fff" stroke="#eee" stroke-width="1">
+        <circle cx="27.5" cy="27.5" r="27.5" stroke="none"/>
+        <circle cx="27.5" cy="27.5" r="27" fill="none"/>
+      </g>
+    </g>
+    <g id="A" transform="translate(242 297)">
+      <g id="Group_10827" data-name="Group 10827" transform="translate(0 0)">
+        <path id="Path_4288" data-name="Path 4288" d="M35.542,35.415,27.747,20.5,19.085,49.833Z" transform="translate(-13.542 -20.5)" fill="#097939" fill-rule="evenodd"/>
+        <path id="Path_4289" data-name="Path 4289" d="M31.006,35.415,23.212,20.5,14.55,49.833Z" transform="translate(-14.55 -20.5)" fill="#ed752e" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>
